@@ -7,11 +7,12 @@ This application enables you to manage your members only by giving them the key 
 * requests
 * subprocess
 
+
+## ScreenShot
+<img src="https://github.com/Dizzy5/Memberships-System/blob/master/avatar.jpg" width="300">
+
+
 ## SocialMedia
 [Instagram](https://www.instagram.com/u__h3/)
 
 [Twitter](https://twitter.com/Dizzy22)
-
-
-## ScreenShot
-<img src="https://github.com/Dizzy5/Memberships-System/blob/master/avatar.jpg" width="300">
