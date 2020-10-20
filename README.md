@@ -9,6 +9,8 @@ This application enables you to manage your members only by giving them the key 
 
 
 ## ScreenShot
+GUI Screenshot
+
 <img src="https://github.com/Dizzy5/Memberships-System/blob/master/avatar.jpg" width="300">
 
 
