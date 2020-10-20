@@ -11,3 +11,7 @@ This application enables you to manage your members only by giving them the key 
 [Instagram](https://www.instagram.com/u__h3/)
 
 [Twitter](https://twitter.com/Dizzy22)
+
+
+## ScreenShot
+![alt text](https://github.com/Dizzy5/Memberships-System/blob/master/avatar.jpg)
