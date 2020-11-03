@@ -15,6 +15,6 @@ GUI Screenshot
 
 
 ## SocialMedia
-[Instagram](https://www.instagram.com/u__h3/)
+[Instagram](https://www.instagram.com/xlrcn/)
 
-[Twitter](https://twitter.com/Dizzy22)
+[Twitter](https://twitter.com/Dizzy22)  
